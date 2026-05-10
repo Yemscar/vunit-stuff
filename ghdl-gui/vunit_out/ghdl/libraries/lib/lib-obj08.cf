@@ -1,0 +1,7 @@
+v 4
+file / "/home/racksmey/dev/hdl-reg/ghdl-gui/counter.vhd" "bc96c917335f8bee599ee4404fcd1352c138414a" "20260510062553.944":
+  entity counter at 1( 0) + 0 on 17;
+  architecture behavioral of counter at 13( 350) + 0 on 18;
+file / "/home/racksmey/dev/hdl-reg/ghdl-gui/test_tb.vhd" "1c1836f1d64344baf48edb81f11db39d9c7d4107" "20260510064934.649":
+  entity tb_example at 1( 0) + 0 on 31;
+  architecture tb of tb_example at 15( 261) + 0 on 32;

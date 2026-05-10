@@ -1,0 +1,2 @@
+/home/racksmey/dev/hdl-reg/ghdl-gui/test_tb.vhd:25:5:@0ms:(report note): Hello world!
+simulation stopped @120001ps with status 0
