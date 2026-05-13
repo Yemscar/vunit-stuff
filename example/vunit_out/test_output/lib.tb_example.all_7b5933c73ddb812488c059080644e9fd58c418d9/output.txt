@@ -1,2 +1,2 @@
-/home/racksmey/dev/hdl-reg/example/test_tb.vhd:13:5:@0ms:(report note): Hello world!
+/home/racksmey/dev/hdl-reg/vunit-stuff/example/test_tb.vhd:13:5:@0ms:(report note): Hello world!
 simulation stopped @0ms with status 0

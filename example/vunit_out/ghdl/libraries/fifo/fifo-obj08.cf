@@ -1,0 +1,13 @@
+v 4
+file / "/home/racksmey/dev/hdl-reg/vunit-stuff/example/src/hdl-modules/modules/fifo/rtl/fifo_netlist_build_wrapper.vhd" "e3f5bf7d0c612b32ecf305713098a028aebaf0fd" "20260513004705.313":
+  entity fifo_netlist_build_wrapper at 13( 674) + 0 on 17;
+  architecture a of fifo_netlist_build_wrapper at 40( 1338) + 0 on 18;
+file / "/home/racksmey/dev/hdl-reg/vunit-stuff/example/src/hdl-modules/modules/fifo/src/asynchronous_fifo.vhd" "66baf5a02d9b8a61c640841fd1c9b059d6f613aa" "20260513004705.302":
+  entity asynchronous_fifo at 41( 2103) + 0 on 13;
+  architecture a of asynchronous_fifo at 124( 5611) + 0 on 14;
+file / "/home/racksmey/dev/hdl-reg/vunit-stuff/example/src/hdl-modules/modules/fifo/src/fifo.vhd" "f33a3f3430d1e9fb2438a9042598ceb37fcdec1d" "20260513004705.290":
+  entity fifo at 53( 3157) + 0 on 11;
+  architecture a of fifo at 129( 6413) + 0 on 12;
+file / "/home/racksmey/dev/hdl-reg/vunit-stuff/example/src/hdl-modules/modules/fifo/src/fifo_wrapper.vhd" "b0c1f078080079bdda0cce4760bafca4ffc9fe06" "20260513004705.307":
+  entity fifo_wrapper at 12( 655) + 0 on 15;
+  architecture a of fifo_wrapper at 74( 2863) + 0 on 16;

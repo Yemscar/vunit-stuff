@@ -1,0 +1,13 @@
+v 4
+file / "/home/racksmey/dev/hdl-reg/vunit-stuff/example/src/hdl-modules/modules/register_file/rtl/axi_lite_register_file_netlist_build_wrapper.vhd" "b0d65ff475867be5f8fee9c91f2d6c19e48d0334" "20260513004808.947":
+  entity axi_lite_register_file_netlist_build_wrapper at 12( 621) + 0 on 17;
+  architecture a of axi_lite_register_file_netlist_build_wrapper at 40( 1232) + 0 on 18;
+file / "/home/racksmey/dev/hdl-reg/vunit-stuff/example/src/hdl-modules/modules/register_file/src/interrupt_register.vhd" "0a9ef0b6b3970df71ce250d8f30e782cf386dd07" "20260513004808.936":
+  entity interrupt_register at 22( 1165) + 0 on 13;
+  architecture a of interrupt_register at 43( 1631) + 0 on 14;
+file / "/home/racksmey/dev/hdl-reg/vunit-stuff/example/src/hdl-modules/modules/register_file/src/register_file_pkg.vhd" "8ecdfa398f29b619bcbc233942b8a2425a6df718" "20260513004808.931":
+  package register_file_pkg at 12( 636) + 0 on 11 body;
+  package body register_file_pkg at 72( 3153) + 0 on 12;
+file / "/home/racksmey/dev/hdl-reg/vunit-stuff/example/src/hdl-modules/modules/register_file/src/axi_lite_register_file.vhd" "6458f521e5a7e1d51c6a7abd163513362aa2e75b" "20260513004808.942":
+  entity axi_lite_register_file at 47( 1965) + 0 on 15;
+  architecture a of axi_lite_register_file at 87( 3490) + 0 on 16;
